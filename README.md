@@ -6,7 +6,7 @@ My name is Samyajyoti,I am a Devops Engineer and an Open-Source enthusiastic.
 
 You can find me on <a href="https://www.linkedin.com/in/samyajyoti-bordoloi-93513a129/">Linkedin </a> 
 
-I have over 4 years of experince in Devops tools.Currently i am working in a startup Claym Media & Tech Pvt Ltd(datacultr).
+I have over 4.9 years of experince in Devops tools.Currently i am working in a startup Claym Media & Tech Pvt Ltd (datacultr  <a href="https://datacultr.com/").
 
 Area of Expertise:
 
