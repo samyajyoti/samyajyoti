@@ -11,18 +11,17 @@ I have over 4 years of experince in Devops tools.Currently i am working in a sta
 Area of Expertise:
 
 1. AWS,Azure
-2. Docker,ECS,Nginx <br>
-3. Ansible playbook for automating tasks
+2. Docker,Kubernetes,ECS,Nginx <br>
+3. Ansible playbook for automating tasks. 
 4. Python Application deployment in Docker and Kubernetes <br>
 5. PostgreSQL, Mysql ,Redis, <br>
-6. ELK stack (Elasticseach ,Kibana), LAMP stack <br>
+6. ELK stack, LAMP stack <br>
 7. Jenkins CI-CD , Jenkins Shared-Library for multiple use in jobs <br>
 8. Linux, Redhat,Centos <br>
 
 Skills & Technologies:
 
 1.Apache Kafka,RabbitMQ, Apache Airflow <br>
-2.Kubernetes <br>
 
 Contact: 
 Email-id: samyajyotibordoloi@gmail.com  
